@@ -1,4 +1,4 @@
-# R-for-Data-Analysis
+# R-for-data-analysis
 R language from scratch
 Working with data
 Data Management and Data Wrangling
